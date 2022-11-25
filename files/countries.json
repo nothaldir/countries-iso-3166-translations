@@ -4,8 +4,7 @@
       "en": "Afghanistan",
       "fr": "Afghanistan",
       "sp": "Afganistán",
-      "ge": "Afghanistan",
-      "de": "Afghanistan"
+      "ge": "Afghanistan"
     },
     "alpha3": "AFG",
     "countryCode": "4",
@@ -16,8 +15,7 @@
       "en": "Åland Islands",
       "fr": "Åland, Iles",
       "sp": "Islas Åland",
-      "ge": "Åland Inseln",
-      "de": "Åland, Islands"
+      "ge": "Åland Inseln"
     },
     "alpha3": "ALA",
     "countryCode": "248",
@@ -28,8 +26,7 @@
       "en": "Albania",
       "fr": "Albanie",
       "sp": "Albania",
-      "ge": "Albanien",
-      "de": "Albania"
+      "ge": "Albanien"
     },
     "alpha3": "ALB",
     "countryCode": "8",
@@ -40,8 +37,7 @@
       "en": "Algeria",
       "fr": "Algérie",
       "sp": "Argelia",
-      "ge": "Algerien",
-      "de": "Algeria"
+      "ge": "Algerien"
     },
     "alpha3": "DZA",
     "countryCode": "12",
@@ -52,8 +48,7 @@
       "en": "American Samoa",
       "fr": "Samoa américaines",
       "sp": "Samoa Americana",
-      "ge": "Amerikanisch-Samoa",
-      "de": "American Samoa"
+      "ge": "Amerikanisch-Samoa"
     },
     "alpha3": "ASM",
     "countryCode": "16",
@@ -64,8 +59,7 @@
       "en": "Andorra",
       "fr": "Andorre",
       "sp": "Andorra",
-      "ge": "Andorra",
-      "de": "Andorra"
+      "ge": "Andorra"
     },
     "alpha3": "AND",
     "countryCode": "20",
@@ -76,8 +70,7 @@
       "en": "Angola",
       "fr": "Angola",
       "sp": "Angola",
-      "ge": "Angola",
-      "de": "Angola"
+      "ge": "Angola"
     },
     "alpha3": "AGO",
     "countryCode": "24",
@@ -88,8 +81,7 @@
       "en": "Anguilla",
       "fr": "Anguilla",
       "sp": "Anguila",
-      "ge": "Anguilla",
-      "de": "Anguilla"
+      "ge": "Anguilla"
     },
     "alpha3": "AIA",
     "countryCode": "660",
@@ -100,8 +92,7 @@
       "en": "Antarctica",
       "fr": "Antarctique",
       "sp": "Antártida",
-      "ge": "Antarktis",
-      "de": "Antarctica"
+      "ge": "Antarktis"
     },
     "alpha3": "ATA",
     "countryCode": "10",
@@ -112,8 +103,7 @@
       "en": "Antigua and Barbuda",
       "fr": "Antigua-et-Barbuda",
       "sp": "Antigua y Barbuda",
-      "ge": "Antigua und Barbuda",
-      "de": "Antigua and Barbuda"
+      "ge": "Antigua und Barbuda"
     },
     "alpha3": "ATG",
     "countryCode": "28",
@@ -124,8 +114,7 @@
       "en": "Argentina",
       "fr": "Argentine",
       "sp": "Argentina",
-      "ge": "Argentinien",
-      "de": "Argentina"
+      "ge": "Argentinien"
     },
     "alpha3": "ARG",
     "countryCode": "32",
@@ -136,8 +125,7 @@
       "en": "Armenia",
       "fr": "Arménie",
       "sp": "Armenia",
-      "ge": "Armenien",
-      "de": "Armenia"
+      "ge": "Armenien"
     },
     "alpha3": "ARM",
     "countryCode": "51",
@@ -148,8 +136,7 @@
       "en": "Aruba",
       "fr": "Aruba",
       "sp": "Aruba",
-      "ge": "Aruba",
-      "de": "Aruba"
+      "ge": "Aruba"
     },
     "alpha3": "ABW",
     "countryCode": "533",
@@ -160,8 +147,7 @@
       "en": "Australia",
       "fr": "Australie",
       "sp": "Australia",
-      "ge": "Australien",
-      "de": "Australia"
+      "ge": "Australien"
     },
     "alpha3": "AUS",
     "countryCode": "36",
@@ -172,8 +158,7 @@
       "en": "Austria",
       "fr": "Autriche",
       "sp": "Austria",
-      "ge": "Österreich",
-      "de": "Austria"
+      "ge": "Österreich"
     },
     "alpha3": "AUT",
     "countryCode": "40",
@@ -184,8 +169,7 @@
       "en": "Azerbaijan",
       "fr": "Azerbaïdjan",
       "sp": "Azerbaiyán",
-      "ge": "Aserbaidschan",
-      "de": "Azerbaijan"
+      "ge": "Aserbaidschan"
     },
     "alpha3": "AZE",
     "countryCode": "31",
@@ -196,8 +180,7 @@
       "en": "Bahamas",
       "fr": "Bahamas",
       "sp": "Bahamas",
-      "ge": "Bahamas",
-      "de": "Bahamas"
+      "ge": "Bahamas"
     },
     "alpha3": "BHS",
     "countryCode": "44",
@@ -208,8 +191,7 @@
       "en": "Bahrain",
       "fr": "Bahreïn",
       "sp": "Bahrein",
-      "ge": "Bahrain",
-      "de": "Bahrain"
+      "ge": "Bahrain"
     },
     "alpha3": "BHR",
     "countryCode": "48",
@@ -220,8 +202,7 @@
       "en": "Bangladesh",
       "fr": "Bangladesh",
       "sp": "Bangladesh",
-      "ge": "Bangladesch",
-      "de": "Bangladesh"
+      "ge": "Bangladesch"
     },
     "alpha3": "BGD",
     "countryCode": "50",
@@ -232,8 +213,7 @@
       "en": "Barbados",
       "fr": "Barbade",
       "sp": "Barbados",
-      "ge": "Barbados",
-      "de": "Barbados"
+      "ge": "Barbados"
     },
     "alpha3": "BRB",
     "countryCode": "52",
@@ -244,8 +224,7 @@
       "en": "Belarus",
       "fr": "Biélorussie",
       "sp": "Bielorrusia",
-      "ge": "Belarus",
-      "de": "Belarus"
+      "ge": "Belarus"
     },
     "alpha3": "BLR",
     "countryCode": "112",
@@ -256,8 +235,7 @@
       "en": "Belgium",
       "fr": "Belgique",
       "sp": "Bélgica",
-      "ge": "Belgien",
-      "de": "Belgium"
+      "ge": "Belgien"
     },
     "alpha3": "BEL",
     "countryCode": "56",
@@ -268,8 +246,7 @@
       "en": "Belize",
       "fr": "Belize",
       "sp": "Belice",
-      "ge": "Belize",
-      "de": "Belize"
+      "ge": "Belize"
     },
     "alpha3": "BLZ",
     "countryCode": "84",
@@ -280,8 +257,7 @@
       "en": "Benin",
       "fr": "Bénin",
       "sp": "Benín",
-      "ge": "Benin",
-      "de": "Benin"
+      "ge": "Benin"
     },
     "alpha3": "BEN",
     "countryCode": "204",
@@ -292,8 +268,7 @@
       "en": "Bermuda",
       "fr": "Bermudes",
       "sp": "Bermudas",
-      "ge": "Bermuda",
-      "de": "Bermuda"
+      "ge": "Bermuda"
     },
     "alpha3": "BMU",
     "countryCode": "60",
@@ -304,8 +279,7 @@
       "en": "Bhutan",
       "fr": "Bhoutan",
       "sp": "Bután",
-      "ge": "Bhutan",
-      "de": "Bhutan"
+      "ge": "Bhutan"
     },
     "alpha3": "BTN",
     "countryCode": "64",
@@ -316,8 +290,7 @@
       "en": "Bolivia (Plurinational State of)",
       "fr": "Bolivie",
       "sp": "Bolivia",
-      "ge": "Bolivien",
-      "de": "Bolivia"
+      "ge": "Bolivien"
     },
     "alpha3": "BOL",
     "countryCode": "68",
@@ -328,8 +301,7 @@
       "en": "Bonaire, Sint Eustatius and Saba",
       "fr": "Bonaire, Saint-Eustache et Saba",
       "sp": "Bonaire, San Eustaquio y Saba",
-      "ge": "Bonaire, St. Eustatius und Saba",
-      "de": "Bonaire, St Eustatius and Saba"
+      "ge": "Bonaire, St. Eustatius und Saba"
     },
     "alpha3": "BES",
     "countryCode": "535",
@@ -340,8 +312,7 @@
       "en": "Bosnia and Herzegovina",
       "fr": "Bosnie-Herzégovine",
       "sp": "Bosnia y Herzegovina",
-      "ge": "Bosnien und Herzegowina",
-      "de": "Bosnia and Herzegovina"
+      "ge": "Bosnien und Herzegowina"
     },
     "alpha3": "BIH",
     "countryCode": "70",
@@ -352,8 +323,7 @@
       "en": "Botswana",
       "fr": "Botswana",
       "sp": "Botswana",
-      "ge": "Botsuana",
-      "de": "Botswana"
+      "ge": "Botsuana"
     },
     "alpha3": "BWA",
     "countryCode": "72",
@@ -364,8 +334,7 @@
       "en": "Bouvet Island",
       "fr": "Bouvet, Ile",
       "sp": "Isla de Bouvet",
-      "ge": "Bouvet Insel",
-      "de": "Bouvet Island"
+      "ge": "Bouvet Insel"
     },
     "alpha3": "BVT",
     "countryCode": "74",
@@ -376,8 +345,7 @@
       "en": "Brazil",
       "fr": "Brésil",
       "sp": "Brasil",
-      "ge": "Brasilien",
-      "de": "Brazil"
+      "ge": "Brasilien"
     },
     "alpha3": "BRA",
     "countryCode": "76",
@@ -388,8 +356,7 @@
       "en": "British Indian Ocean Territory",
       "fr": "Océan Indien, Territoire britannique de l'",
       "sp": "Océano Índico, Territorio Británico del",
-      "ge": "Britisches Territorium im Indischen Ozean",
-      "de": "Indian Ocean, British Territory of the"
+      "ge": "Britisches Territorium im Indischen Ozean"
     },
     "alpha3": "IOT",
     "countryCode": "86",
@@ -400,8 +367,7 @@
       "en": "Brunei Darussalam",
       "fr": "Brunéi Darussalam",
       "sp": "Brunei Darussalam",
-      "ge": "Brunei Darussalam",
-      "de": "Brunei Darussalam"
+      "ge": "Brunei Darussalam"
     },
     "alpha3": "BRN",
     "countryCode": "96",
@@ -412,8 +378,7 @@
       "en": "Bulgaria",
       "fr": "Bulgarie",
       "sp": "Bulgaria",
-      "ge": "Bulgarien",
-      "de": "Bulgaria"
+      "ge": "Bulgarien"
     },
     "alpha3": "BGR",
     "countryCode": "100",
@@ -424,8 +389,7 @@
       "en": "Burkina Faso",
       "fr": "Burkina Faso",
       "sp": "Burkina Faso",
-      "ge": "Burkina Faso",
-      "de": "Burkina Faso"
+      "ge": "Burkina Faso"
     },
     "alpha3": "BFA",
     "countryCode": "854",
@@ -436,8 +400,7 @@
       "en": "Burundi",
       "fr": "Burundi",
       "sp": "Burundi",
-      "ge": "Burundi",
-      "de": "Burundi"
+      "ge": "Burundi"
     },
     "alpha3": "BDI",
     "countryCode": "108",
@@ -448,8 +411,7 @@
       "en": "Cabo Verde",
       "fr": "Cap-Vert",
       "sp": "Cabo Verde",
-      "ge": "Cabo Verde",
-      "de": "Cabo Verde"
+      "ge": "Cabo Verde"
     },
     "alpha3": "CPV",
     "countryCode": "132",
@@ -460,8 +422,7 @@
       "en": "Cambodia",
       "fr": "Cambodge",
       "sp": "Camboya",
-      "ge": "Kambodscha",
-      "de": "Cambodia"
+      "ge": "Kambodscha"
     },
     "alpha3": "KHM",
     "countryCode": "116",
@@ -472,8 +433,7 @@
       "en": "Cameroon",
       "fr": "Cameroune",
       "sp": "Camerún",
-      "ge": "Kamerun",
-      "de": "Cameroon"
+      "ge": "Kamerun"
     },
     "alpha3": "CMR",
     "countryCode": "120",
@@ -484,8 +444,7 @@
       "en": "Canada",
       "fr": "Canada",
       "sp": "Canadá",
-      "ge": "Kanada",
-      "de": "Canada"
+      "ge": "Kanada"
     },
     "alpha3": "CAN",
     "countryCode": "124",
@@ -496,8 +455,7 @@
       "en": "Cayman Islands",
       "fr": "Caïman, Iles",
       "sp": "Islas Caimán",
-      "ge": "Kaimaninseln",
-      "de": "Cayman Islands"
+      "ge": "Kaimaninseln"
     },
     "alpha3": "CYM",
     "countryCode": "136",
@@ -508,8 +466,7 @@
       "en": "Central African Republic",
       "fr": "République centrafricaine",
       "sp": "República Centroafricana",
-      "ge": "Zentralafrikanische Republik",
-      "de": "Central African Republic"
+      "ge": "Zentralafrikanische Republik"
     },
     "alpha3": "CAF",
     "countryCode": "140",
@@ -520,8 +477,7 @@
       "en": "Chad",
       "fr": "Tchad",
       "sp": "Chad",
-      "ge": "Tschad",
-      "de": "Chad"
+      "ge": "Tschad"
     },
     "alpha3": "TCD",
     "countryCode": "148",
@@ -532,8 +488,7 @@
       "en": "Chile",
       "fr": "Chili",
       "sp": "Chile",
-      "ge": "Chile",
-      "de": "Chile"
+      "ge": "Chile"
     },
     "alpha3": "CHL",
     "countryCode": "152",
@@ -544,8 +499,7 @@
       "en": "China",
       "fr": "Chine",
       "sp": "China",
-      "ge": "China",
-      "de": "China"
+      "ge": "China"
     },
     "alpha3": "CHN",
     "countryCode": "156",
@@ -556,8 +510,7 @@
       "en": "Christmas Island",
       "fr": "Christmas, Ile",
       "sp": "Isla de Navidad",
-      "ge": "Christmas Insel",
-      "de": "Christmas Island"
+      "ge": "Christmas Insel"
     },
     "alpha3": "CXR",
     "countryCode": "162",
@@ -568,8 +521,7 @@
       "en": "Cocos (Keeling) Islands",
       "fr": "Cocos (Keeling), Iles",
       "sp": "Islas Cocos (Keeling)",
-      "ge": "Cocos (Keeling) Inseln",
-      "de": "Cocos (Keeling) Islands"
+      "ge": "Cocos (Keeling) Inseln"
     },
     "alpha3": "CCK",
     "countryCode": "166",
@@ -580,8 +532,7 @@
       "en": "Colombia",
       "fr": "Colombie",
       "sp": "Colombia",
-      "ge": "Kolumbien",
-      "de": "Colombia"
+      "ge": "Kolumbien"
     },
     "alpha3": "COL",
     "countryCode": "170",
@@ -592,8 +543,7 @@
       "en": "Comoros",
       "fr": "Comores",
       "sp": "Comoras",
-      "ge": "Komoren",
-      "de": "Comoros"
+      "ge": "Komoren"
     },
     "alpha3": "COM",
     "countryCode": "174",
@@ -604,8 +554,7 @@
       "en": "Congo",
       "fr": "Congo",
       "sp": "Congo",
-      "ge": "Kongo",
-      "de": "Congo"
+      "ge": "Kongo"
     },
     "alpha3": "COG",
     "countryCode": "178",
@@ -616,8 +565,7 @@
       "en": "Congo, Democratic Republic of the",
       "fr": "République démocratique du Congo",
       "sp": "República Democrática del Congo",
-      "ge": "Demokratische Republik Kongo",
-      "de": "Democratic Republic of the Congo"
+      "ge": "Demokratische Republik Kongo"
     },
     "alpha3": "COD",
     "countryCode": "180",
@@ -628,8 +576,7 @@
       "en": "Cook Islands",
       "fr": "Cook, Iles",
       "sp": "Islas Cook",
-      "ge": "Cook-Inseln",
-      "de": "Cook Islands"
+      "ge": "Cook-Inseln"
     },
     "alpha3": "COK",
     "countryCode": "184",
@@ -640,8 +587,7 @@
       "en": "Costa Rica",
       "fr": "Costa Rica",
       "sp": "Costa Rica",
-      "ge": "Costa Rica",
-      "de": "Costa Rica"
+      "ge": "Costa Rica"
     },
     "alpha3": "CRI",
     "countryCode": "188",
@@ -652,8 +598,7 @@
       "en": "Côte d'Ivoire",
       "fr": "Cote d'Ivoire",
       "sp": "Costa de Marfil",
-      "ge": "Elfenbeinküste",
-      "de": "Ivory Coast"
+      "ge": "Elfenbeinküste"
     },
     "alpha3": "CIV",
     "countryCode": "384",
@@ -664,8 +609,7 @@
       "en": "Croatia",
       "fr": "Coatie",
       "sp": "Croacia",
-      "ge": "Kroatien",
-      "de": "Croatia"
+      "ge": "Kroatien"
     },
     "alpha3": "HRV",
     "countryCode": "191",
@@ -676,8 +620,7 @@
       "en": "Cuba",
       "fr": "Cuba",
       "sp": "Cuba",
-      "ge": "Kuba",
-      "de": "Cuba"
+      "ge": "Kuba"
     },
     "alpha3": "CUB",
     "countryCode": "192",
@@ -688,8 +631,7 @@
       "en": "Curaçao",
       "fr": "Curaçao",
       "sp": "Curaçao",
-      "ge": "Curaçao",
-      "de": "Curaçao"
+      "ge": "Curaçao"
     },
     "alpha3": "CUW",
     "countryCode": "531",
@@ -700,8 +642,7 @@
       "en": "Cyprus",
       "fr": "Chypre",
       "sp": "Chipre",
-      "ge": "Zypern",
-      "de": "Cyprus"
+      "ge": "Zypern"
     },
     "alpha3": "CYP",
     "countryCode": "196",
@@ -712,8 +653,7 @@
       "en": "Czechia",
       "fr": "République tchèque",
       "sp": "República Checa",
-      "ge": "Tschechische Republik",
-      "de": "Czechia"
+      "ge": "Tschechische Republik"
     },
     "alpha3": "CZE",
     "countryCode": "203",
@@ -724,8 +664,7 @@
       "en": "Denmark",
       "fr": "Danemark",
       "sp": "Dinamarca",
-      "ge": "Dänemark",
-      "de": "Denmark"
+      "ge": "Dänemark"
     },
     "alpha3": "DNK",
     "countryCode": "208",
@@ -736,8 +675,7 @@
       "en": "Djibouti",
       "fr": "Djibouti",
       "sp": "Yibuti",
-      "ge": "Dschibuti",
-      "de": "Djibouti"
+      "ge": "Dschibuti"
     },
     "alpha3": "DJI",
     "countryCode": "262",
@@ -748,8 +686,7 @@
       "en": "Dominica",
       "fr": "Dominique",
       "sp": "Dominica",
-      "ge": "Dominica",
-      "de": "Dominica"
+      "ge": "Dominica"
     },
     "alpha3": "DMA",
     "countryCode": "212",
@@ -760,8 +697,7 @@
       "en": "Dominican Republic",
       "fr": "République dominicaine",
       "sp": "República Dominicana",
-      "ge": "Dominikanische Republik",
-      "de": "Dominican Republic"
+      "ge": "Dominikanische Republik"
     },
     "alpha3": "DOM",
     "countryCode": "214",
@@ -772,8 +708,7 @@
       "en": "Ecuador",
       "fr": "Équateur",
       "sp": "Ecuador",
-      "ge": "Ecuador",
-      "de": "Ecuador"
+      "ge": "Ecuador"
     },
     "alpha3": "ECU",
     "countryCode": "218",
@@ -784,8 +719,7 @@
       "en": "Egypt",
       "fr": "Égypte",
       "sp": "Egipto",
-      "ge": "Ägypten",
-      "de": "Egypt"
+      "ge": "Ägypten"
     },
     "alpha3": "EGY",
     "countryCode": "818",
@@ -796,8 +730,7 @@
       "en": "El Salvador",
       "fr": "Salvador",
       "sp": "El Salvador",
-      "ge": "El Salvador",
-      "de": "El Salvador"
+      "ge": "El Salvador"
     },
     "alpha3": "SLV",
     "countryCode": "222",
@@ -808,8 +741,7 @@
       "en": "Equatorial Guinea",
       "fr": "Guinée Équatoriale",
       "sp": "Guinea Ecuatorial",
-      "ge": "Äquatorialguinea",
-      "de": "Equatorial Guinea"
+      "ge": "Äquatorialguinea"
     },
     "alpha3": "GNQ",
     "countryCode": "226",
@@ -820,8 +752,7 @@
       "en": "Eritrea",
       "fr": "Érythrée",
       "sp": "Eritrea",
-      "ge": "Eritrea",
-      "de": "Eritrea"
+      "ge": "Eritrea"
     },
     "alpha3": "ERI",
     "countryCode": "232",
@@ -832,8 +763,7 @@
       "en": "Estonia",
       "fr": "Estonie",
       "sp": "Estonia",
-      "ge": "Estland",
-      "de": "Estonia"
+      "ge": "Estland"
     },
     "alpha3": "EST",
     "countryCode": "233",
@@ -844,8 +774,7 @@
       "en": "Eswatini",
       "fr": "Swaziland",
       "sp": "Eswatini",
-      "ge": "Eswatini",
-      "de": "Eswatini"
+      "ge": "Eswatini"
     },
     "alpha3": "SWZ",
     "countryCode": "748",
@@ -856,8 +785,7 @@
       "en": "Ethiopia",
       "fr": "Éthiopie",
       "sp": "Etiopía",
-      "ge": "Äthiopien",
-      "de": "Ethiopia"
+      "ge": "Äthiopien"
     },
     "alpha3": "ETH",
     "countryCode": "231",
@@ -868,8 +796,7 @@
       "en": "Falkland Islands (Malvinas)",
       "fr": "Falkland, Iles (Malvinas)",
       "sp": "Islas Malvinas (Falkland Islands)",
-      "ge": "Falkland-Inseln (Malvinas)",
-      "de": "Falkland Islands (Malvinas)"
+      "ge": "Falkland-Inseln (Malvinas)"
     },
     "alpha3": "FLK",
     "countryCode": "238",
@@ -880,8 +807,7 @@
       "en": "Faroe Islands",
       "fr": "Féroé, Iles",
       "sp": "Islas Feroe",
-      "ge": "Färöer Inseln",
-      "de": "Faroe Islands"
+      "ge": "Färöer Inseln"
     },
     "alpha3": "FRO",
     "countryCode": "234",
@@ -892,8 +818,7 @@
       "en": "Fiji",
       "fr": "Fidji",
       "sp": "Fiji",
-      "ge": "Fidschi",
-      "de": "Fiji"
+      "ge": "Fidschi"
     },
     "alpha3": "FJI",
     "countryCode": "242",
@@ -904,8 +829,7 @@
       "en": "Finland",
       "fr": "Finlande",
       "sp": "Finlandia",
-      "ge": "Finnland",
-      "de": "Finland"
+      "ge": "Finnland"
     },
     "alpha3": "FIN",
     "countryCode": "246",
@@ -916,8 +840,7 @@
       "en": "France",
       "fr": "France",
       "sp": "Francia",
-      "ge": "Frankreich",
-      "de": "France"
+      "ge": "Frankreich"
     },
     "alpha3": "FRA",
     "countryCode": "250",
@@ -928,8 +851,7 @@
       "en": "French Guiana",
       "fr": "Guyane française",
       "sp": "Guayana Francesa",
-      "ge": "Französisch-Guayana",
-      "de": "French Guiana"
+      "ge": "Französisch-Guayana"
     },
     "alpha3": "GUF",
     "countryCode": "254",
@@ -940,8 +862,7 @@
       "en": "French Polynesia",
       "fr": "Polynésie française",
       "sp": "Polinesia Francesa",
-      "ge": "Französisch-Polynesien",
-      "de": "French Polynesia"
+      "ge": "Französisch-Polynesien"
     },
     "alpha3": "PYF",
     "countryCode": "258",
@@ -952,8 +873,7 @@
       "en": "French Southern Territories",
       "fr": "Terres australes françaises",
       "sp": "Territorios Australes Franceses",
-      "ge": "Französische Südgebiete",
-      "de": "French Southern Territories"
+      "ge": "Französische Südgebiete"
     },
     "alpha3": "ATF",
     "countryCode": "260",
@@ -964,8 +884,7 @@
       "en": "Gabon",
       "fr": "Gabon",
       "sp": "Gabón",
-      "ge": "Gabun",
-      "de": "Gabon"
+      "ge": "Gabun"
     },
     "alpha3": "GAB",
     "countryCode": "266",
@@ -976,8 +895,7 @@
       "en": "Gambia",
       "fr": "Gambie",
       "sp": "Gambia",
-      "ge": "Gambia",
-      "de": "Gambia"
+      "ge": "Gambia"
     },
     "alpha3": "GMB",
     "countryCode": "270",
@@ -988,8 +906,7 @@
       "en": "Georgia",
       "fr": "Géorgie",
       "sp": "Georgia",
-      "ge": "Georgien",
-      "de": "Georgia"
+      "ge": "Georgien"
     },
     "alpha3": "GEO",
     "countryCode": "268",
@@ -1000,8 +917,7 @@
       "en": "Germany",
       "fr": "Allemagne",
       "sp": "Alemania",
-      "ge": "Deutschland",
-      "de": "Germany"
+      "ge": "Deutschland"
     },
     "alpha3": "DEU",
     "countryCode": "276",
@@ -1012,8 +928,7 @@
       "en": "Ghana",
       "fr": "Ghana",
       "sp": "Ghana",
-      "ge": "Ghana",
-      "de": "Ghana"
+      "ge": "Ghana"
     },
     "alpha3": "GHA",
     "countryCode": "288",
@@ -1024,8 +939,7 @@
       "en": "Gibraltar",
       "fr": "Gibraltar",
       "sp": "Gibraltar",
-      "ge": "Gibraltar",
-      "de": "Gibraltar"
+      "ge": "Gibraltar"
     },
     "alpha3": "GIB",
     "countryCode": "292",
@@ -1036,8 +950,7 @@
       "en": "Greece",
       "fr": "Grèce",
       "sp": "Grecia",
-      "ge": "Griechenland",
-      "de": "Greece"
+      "ge": "Griechenland"
     },
     "alpha3": "GRC",
     "countryCode": "300",
@@ -1048,8 +961,7 @@
       "en": "Greenland",
       "fr": "Groenland",
       "sp": "Groenlandia",
-      "ge": "Grönland",
-      "de": "Greenland"
+      "ge": "Grönland"
     },
     "alpha3": "GRL",
     "countryCode": "304",
@@ -1060,8 +972,7 @@
       "en": "Grenada",
       "fr": "Grenade",
       "sp": "Granada",
-      "ge": "Grenada",
-      "de": "Grenada"
+      "ge": "Grenada"
     },
     "alpha3": "GRD",
     "countryCode": "308",
@@ -1072,8 +983,7 @@
       "en": "Guadeloupe",
       "fr": "Guadeloupe",
       "sp": "Guadalupe",
-      "ge": "Guadeloupe",
-      "de": "Guadeloupe"
+      "ge": "Guadeloupe"
     },
     "alpha3": "GLP",
     "countryCode": "312",
@@ -1084,8 +994,7 @@
       "en": "Guam",
       "fr": "Guam",
       "sp": "Guam",
-      "ge": "Guam",
-      "de": "Guam"
+      "ge": "Guam"
     },
     "alpha3": "GUM",
     "countryCode": "316",
@@ -1096,8 +1005,7 @@
       "en": "Guatemala",
       "fr": "Guatemala",
       "sp": "Guatemala",
-      "ge": "Guatemala",
-      "de": "Guatemala"
+      "ge": "Guatemala"
     },
     "alpha3": "GTM",
     "countryCode": "320",
@@ -1108,8 +1016,7 @@
       "en": "Guernsey",
       "fr": "Guernesey",
       "sp": "Guernsey",
-      "ge": "Guernsey",
-      "de": "Guernsey"
+      "ge": "Guernsey"
     },
     "alpha3": "GGY",
     "countryCode": "831",
@@ -1120,8 +1027,7 @@
       "en": "Guinea",
       "fr": "Guinée",
       "sp": "Guinea",
-      "ge": "Guinea",
-      "de": "Guinea"
+      "ge": "Guinea"
     },
     "alpha3": "GIN",
     "countryCode": "324",
@@ -1132,8 +1038,7 @@
       "en": "Guinea-Bissau",
       "fr": "Guinée-Bissau",
       "sp": "Guinea-Bissau",
-      "ge": "Guinea-Bissau",
-      "de": "Guinea-Bissau"
+      "ge": "Guinea-Bissau"
     },
     "alpha3": "GNB",
     "countryCode": "624",
@@ -1144,8 +1049,7 @@
       "en": "Guyana",
       "fr": "Guyana",
       "sp": "Guyana",
-      "ge": "Guyana",
-      "de": "Guyana"
+      "ge": "Guyana"
     },
     "alpha3": "GUY",
     "countryCode": "328",
@@ -1156,8 +1060,7 @@
       "en": "Haiti",
       "fr": "Haïti",
       "sp": "Haití",
-      "ge": "Haiti",
-      "de": "Haiti"
+      "ge": "Haiti"
     },
     "alpha3": "HTI",
     "countryCode": "332",
@@ -1168,8 +1071,7 @@
       "en": "Heard Island and McDonald Islands",
       "fr": "Heard et McDonald, Iles",
       "sp": "Isla Heard e Islas McDonald",
-      "ge": "Heard Insel und McDonald Inseln",
-      "de": "Heard Island and McDonald Islands"
+      "ge": "Heard Insel und McDonald Inseln"
     },
     "alpha3": "HMD",
     "countryCode": "334",
@@ -1180,8 +1082,7 @@
       "en": "Holy See",
       "fr": "Vatican, État de la Cité du",
       "sp": "Santa Sede (Estado de la Ciudad del Vaticano)",
-      "ge": "(Heiliger Stuhl) Vatikanstaat",
-      "de": "Vatican City State"
+      "ge": "(Heiliger Stuhl) Vatikanstaat"
     },
     "alpha3": "VAT",
     "countryCode": "336",
@@ -1192,8 +1093,7 @@
       "en": "Honduras",
       "fr": "Honduras",
       "sp": "Honduras",
-      "ge": "Honduras",
-      "de": "Honduras"
+      "ge": "Honduras"
     },
     "alpha3": "HND",
     "countryCode": "340",
@@ -1204,8 +1104,7 @@
       "en": "Hong Kong",
       "fr": "Hong-Kong",
       "sp": "Hong Kong",
-      "ge": "Hongkong",
-      "de": "Hong Kong"
+      "ge": "Hongkong"
     },
     "alpha3": "HKG",
     "countryCode": "344",
@@ -1216,8 +1115,7 @@
       "en": "Hungary",
       "fr": "Hongrie",
       "sp": "Hungría",
-      "ge": "Ungarn",
-      "de": "Hungary"
+      "ge": "Ungarn"
     },
     "alpha3": "HUN",
     "countryCode": "348",
@@ -1228,8 +1126,7 @@
       "en": "Iceland",
       "fr": "Islande",
       "sp": "Islandia",
-      "ge": "Island",
-      "de": "Iceland"
+      "ge": "Island"
     },
     "alpha3": "ISL",
     "countryCode": "352",
@@ -1240,8 +1137,7 @@
       "en": "India",
       "fr": "Inde",
       "sp": "India",
-      "ge": "Indien",
-      "de": "India"
+      "ge": "Indien"
     },
     "alpha3": "IND",
     "countryCode": "356",
@@ -1252,8 +1148,7 @@
       "en": "Indonesia",
       "fr": "Indonésie",
       "sp": "Indonesia",
-      "ge": "Indonesien",
-      "de": "Indonesia"
+      "ge": "Indonesien"
     },
     "alpha3": "IDN",
     "countryCode": "360",
@@ -1264,8 +1159,7 @@
       "en": "Iran (Islamic Republic of)",
       "fr": "Iran",
       "sp": "Irán",
-      "ge": "Iran",
-      "de": "Iran"
+      "ge": "Iran"
     },
     "alpha3": "IRN",
     "countryCode": "364",
@@ -1276,8 +1170,7 @@
       "en": "Iraq",
       "fr": "Irak",
       "sp": "Irak",
-      "ge": "Irak",
-      "de": "Iraq"
+      "ge": "Irak"
     },
     "alpha3": "IRQ",
     "countryCode": "368",
@@ -1288,8 +1181,7 @@
       "en": "Ireland",
       "fr": "Irlande",
       "sp": "Irlanda",
-      "ge": "Irland",
-      "de": "Ireland"
+      "ge": "Irland"
     },
     "alpha3": "IRL",
     "countryCode": "372",
@@ -1300,8 +1192,7 @@
       "en": "Isle of Man",
       "fr": "Ile de Man",
       "sp": "Isla de Man",
-      "ge": "Insel Man",
-      "de": "Isle of Man"
+      "ge": "Insel Man"
     },
     "alpha3": "IMN",
     "countryCode": "833",
@@ -1312,8 +1203,7 @@
       "en": "Israel",
       "fr": "Israël",
       "sp": "Israel",
-      "ge": "Israel",
-      "de": "Israel"
+      "ge": "Israel"
     },
     "alpha3": "ISR",
     "countryCode": "376",
@@ -1324,8 +1214,7 @@
       "en": "Italy",
       "fr": "Italie",
       "sp": "Italia",
-      "ge": "Italien",
-      "de": "Italy"
+      "ge": "Italien"
     },
     "alpha3": "ITA",
     "countryCode": "380",
@@ -1336,8 +1225,7 @@
       "en": "Jamaica",
       "fr": "Jamaïque",
       "sp": "Jamaica",
-      "ge": "Jamaika",
-      "de": "Jamaica"
+      "ge": "Jamaika"
     },
     "alpha3": "JAM",
     "countryCode": "388",
@@ -1348,8 +1236,7 @@
       "en": "Japan",
       "fr": "Japon",
       "sp": "Japón",
-      "ge": "Japan",
-      "de": "Japan"
+      "ge": "Japan"
     },
     "alpha3": "JPN",
     "countryCode": "392",
@@ -1360,8 +1247,7 @@
       "en": "Jersey",
       "fr": "Jersey",
       "sp": "Jersey",
-      "ge": "Jersey",
-      "de": "Jersey"
+      "ge": "Jersey"
     },
     "alpha3": "JEY",
     "countryCode": "832",
@@ -1372,8 +1258,7 @@
       "en": "Jordan",
       "fr": "Jordanie",
       "sp": "Jordania",
-      "ge": "Jordanien",
-      "de": "Jordan"
+      "ge": "Jordanien"
     },
     "alpha3": "JOR",
     "countryCode": "400",
@@ -1384,8 +1269,7 @@
       "en": "Kazakhstan",
       "fr": "Kazakhstan",
       "sp": "Kazajistán",
-      "ge": "Kasachstan",
-      "de": "Kazakhstan"
+      "ge": "Kasachstan"
     },
     "alpha3": "KAZ",
     "countryCode": "398",
@@ -1396,8 +1280,7 @@
       "en": "Kenya",
       "fr": "Kenya",
       "sp": "Kenia",
-      "ge": "Kenia",
-      "de": "Kenya"
+      "ge": "Kenia"
     },
     "alpha3": "KEN",
     "countryCode": "404",
@@ -1408,8 +1291,7 @@
       "en": "Kiribati",
       "fr": "Kiribati",
       "sp": "Kiribati",
-      "ge": "Kiribati",
-      "de": "Kiribati"
+      "ge": "Kiribati"
     },
     "alpha3": "KIR",
     "countryCode": "296",
@@ -1420,8 +1302,7 @@
       "en": "Korea (Democratic People's Republic of)",
       "fr": "Corée du Nord",
       "sp": "Corea (del Norte)",
-      "ge": "Korea (Norden)",
-      "de": "Korea (North)"
+      "ge": "Korea (Norden)"
     },
     "alpha3": "PRK",
     "countryCode": "408",
@@ -1432,8 +1313,7 @@
       "en": "Korea, Republic of",
       "fr": "Corée, République de",
       "sp": "Corea, República de",
-      "ge": "Korea, Republik",
-      "de": "Korea, Republic of"
+      "ge": "Korea, Republik"
     },
     "alpha3": "KOR",
     "countryCode": "410",
@@ -1444,8 +1324,7 @@
       "en": "Kuwait",
       "fr": "Koweït",
       "sp": "Kuwait",
-      "ge": "Kuwait",
-      "de": "Kuwait"
+      "ge": "Kuwait"
     },
     "alpha3": "KWT",
     "countryCode": "414",
@@ -1456,8 +1335,7 @@
       "en": "Kyrgyzstan",
       "fr": "Kirghizistan",
       "sp": "Kirguistán",
-      "ge": "Kirgisistan",
-      "de": "Kyrgyzstan"
+      "ge": "Kirgisistan"
     },
     "alpha3": "KGZ",
     "countryCode": "417",
@@ -1468,8 +1346,7 @@
       "en": "Lao People's Democratic Republic",
       "fr": "Lao, République démocratique populaire",
       "sp": "República Democrática Popular de Laos",
-      "ge": "Lao, Demokratische Volksrepublik",
-      "de": "Lao People's Democratic Republic"
+      "ge": "Lao, Demokratische Volksrepublik"
     },
     "alpha3": "LAO",
     "countryCode": "418",
@@ -1480,8 +1357,7 @@
       "en": "Latvia",
       "fr": "Lettonie",
       "sp": "Letonia",
-      "ge": "Lettland",
-      "de": "Latvia"
+      "ge": "Lettland"
     },
     "alpha3": "LVA",
     "countryCode": "428",
@@ -1492,8 +1368,7 @@
       "en": "Lebanon",
       "fr": "Liban",
       "sp": "Líbano",
-      "ge": "Libanon",
-      "de": "Lebanon"
+      "ge": "Libanon"
     },
     "alpha3": "LBN",
     "countryCode": "422",
@@ -1504,8 +1379,7 @@
       "en": "Lesotho",
       "fr": "Lesotho",
       "sp": "Lesotho",
-      "ge": "Lesotho",
-      "de": "Lesotho"
+      "ge": "Lesotho"
     },
     "alpha3": "LSO",
     "countryCode": "426",
@@ -1516,8 +1390,7 @@
       "en": "Liberia",
       "fr": "Libéria",
       "sp": "Liberia",
-      "ge": "Liberia",
-      "de": "Liberia"
+      "ge": "Liberia"
     },
     "alpha3": "LBR",
     "countryCode": "430",
@@ -1528,8 +1401,7 @@
       "en": "Libya",
       "fr": "Libye",
       "sp": "Libia",
-      "ge": "Libyen",
-      "de": "Libya"
+      "ge": "Libyen"
     },
     "alpha3": "LBY",
     "countryCode": "434",
@@ -1540,8 +1412,7 @@
       "en": "Liechtenstein",
       "fr": "Liechtenstein",
       "sp": "Liechtenstein",
-      "ge": "Liechtenstein",
-      "de": "Liechtenstein"
+      "ge": "Liechtenstein"
     },
     "alpha3": "LIE",
     "countryCode": "438",
@@ -1552,8 +1423,7 @@
       "en": "Lithuania",
       "fr": "Lituanie",
       "sp": "Lituania",
-      "ge": "Litauen",
-      "de": "Lithuania"
+      "ge": "Litauen"
     },
     "alpha3": "LTU",
     "countryCode": "440",
@@ -1564,8 +1434,7 @@
       "en": "Luxembourg",
       "fr": "Luxembourg",
       "sp": "Luxemburgo",
-      "ge": "Luxemburg",
-      "de": "Luxembourg"
+      "ge": "Luxemburg"
     },
     "alpha3": "LUX",
     "countryCode": "442",
@@ -1576,8 +1445,7 @@
       "en": "Macao",
       "fr": "Macao",
       "sp": "Macao",
-      "ge": "Macau",
-      "de": "Macau"
+      "ge": "Macau"
     },
     "alpha3": "MAC",
     "countryCode": "446",
@@ -1588,8 +1456,7 @@
       "en": "Madagascar",
       "fr": "Madagascar",
       "sp": "Madagascar",
-      "ge": "Madagaskar",
-      "de": "Madagascar"
+      "ge": "Madagaskar"
     },
     "alpha3": "MDG",
     "countryCode": "450",
@@ -1600,8 +1467,7 @@
       "en": "Malawi",
       "fr": "Malawi",
       "sp": "Malawi",
-      "ge": "Malawi",
-      "de": "Malawi"
+      "ge": "Malawi"
     },
     "alpha3": "MWI",
     "countryCode": "454",
@@ -1612,8 +1478,7 @@
       "en": "Malaysia",
       "fr": "Malaisie",
       "sp": "Malasia",
-      "ge": "Malaysia",
-      "de": "Malaysia"
+      "ge": "Malaysia"
     },
     "alpha3": "MYS",
     "countryCode": "458",
@@ -1624,8 +1489,7 @@
       "en": "Maldives",
       "fr": "Maldives",
       "sp": "Maldivas",
-      "ge": "Malediven",
-      "de": "Maldives"
+      "ge": "Malediven"
     },
     "alpha3": "MDV",
     "countryCode": "462",
@@ -1636,8 +1500,7 @@
       "en": "Mali",
       "fr": "Mali",
       "sp": "Malí",
-      "ge": "Mali",
-      "de": "Mali"
+      "ge": "Mali"
     },
     "alpha3": "MLI",
     "countryCode": "466",
@@ -1648,8 +1511,7 @@
       "en": "Malta",
       "fr": "Malte",
       "sp": "Malta",
-      "ge": "Malta",
-      "de": "Malta"
+      "ge": "Malta"
     },
     "alpha3": "MLT",
     "countryCode": "470",
@@ -1660,8 +1522,7 @@
       "en": "Marshall Islands",
       "fr": "Iles Marshall",
       "sp": "Islas Marshall",
-      "ge": "Marshallinseln",
-      "de": "Marshall Islands"
+      "ge": "Marshallinseln"
     },
     "alpha3": "MHL",
     "countryCode": "584",
@@ -1672,8 +1533,7 @@
       "en": "Martinique",
       "fr": "Martinique",
       "sp": "Martinica",
-      "ge": "Martinique",
-      "de": "Martinique"
+      "ge": "Martinique"
     },
     "alpha3": "MTQ",
     "countryCode": "474",
@@ -1684,8 +1544,7 @@
       "en": "Mauritania",
       "fr": "Mauritanie",
       "sp": "Mauritania",
-      "ge": "Mauretanien",
-      "de": "Mauritania"
+      "ge": "Mauretanien"
     },
     "alpha3": "MRT",
     "countryCode": "478",
@@ -1696,8 +1555,7 @@
       "en": "Mauritius",
       "fr": "Maurice",
       "sp": "Mauricio",
-      "ge": "Mauritius",
-      "de": "Mauritius"
+      "ge": "Mauritius"
     },
     "alpha3": "MUS",
     "countryCode": "480",
@@ -1708,8 +1566,7 @@
       "en": "Mayotte",
       "fr": "Mayotte",
       "sp": "Mayotte",
-      "ge": "Mayotte",
-      "de": "Mayotte"
+      "ge": "Mayotte"
     },
     "alpha3": "MYT",
     "countryCode": "175",
@@ -1720,8 +1577,7 @@
       "en": "Mexico",
       "fr": "Mexique",
       "sp": "México",
-      "ge": "Mexiko",
-      "de": "Mexico"
+      "ge": "Mexiko"
     },
     "alpha3": "MEX",
     "countryCode": "484",
@@ -1732,8 +1588,7 @@
       "en": "Micronesia (Federated States of)",
       "fr": "Micronésie, États fédérés de",
       "sp": "Micronesia, Estados Federados de",
-      "ge": "Mikronesien, Föderierte Staaten von",
-      "de": "Micronesia, Federated States of"
+      "ge": "Mikronesien, Föderierte Staaten von"
     },
     "alpha3": "FSM",
     "countryCode": "583",
@@ -1744,8 +1599,7 @@
       "en": "Moldova, Republic of",
       "fr": "Moldavie, République de ",
       "sp": "Moldavia, República de",
-      "ge": "Moldau, Republik",
-      "de": "Moldova, Republic of"
+      "ge": "Moldau, Republik"
     },
     "alpha3": "MDA",
     "countryCode": "498",
@@ -1756,8 +1610,7 @@
       "en": "Monaco",
       "fr": "Monaco",
       "sp": "Mónaco",
-      "ge": "Monaco",
-      "de": "Monaco"
+      "ge": "Monaco"
     },
     "alpha3": "MCO",
     "countryCode": "492",
@@ -1768,8 +1621,7 @@
       "en": "Mongolia",
       "fr": "Mongalie",
       "sp": "Mongolia",
-      "ge": "Mongolei",
-      "de": "Mongolia"
+      "ge": "Mongolei"
     },
     "alpha3": "MNG",
     "countryCode": "496",
@@ -1780,8 +1632,7 @@
       "en": "Montenegro",
       "fr": "Monténégro",
       "sp": "Montenegro",
-      "ge": "Montenegro",
-      "de": "Montenegro"
+      "ge": "Montenegro"
     },
     "alpha3": "MNE",
     "countryCode": "499",
@@ -1792,8 +1643,7 @@
       "en": "Montserrat",
       "fr": "Montserrat",
       "sp": "Montserrat",
-      "ge": "Montserrat",
-      "de": "Montserrat"
+      "ge": "Montserrat"
     },
     "alpha3": "MSR",
     "countryCode": "500",
@@ -1804,8 +1654,7 @@
       "en": "Morocco",
       "fr": "Maroc",
       "sp": "Marruecos",
-      "ge": "Marokko",
-      "de": "Morocco"
+      "ge": "Marokko"
     },
     "alpha3": "MAR",
     "countryCode": "504",
@@ -1816,8 +1665,7 @@
       "en": "Mozambique",
       "fr": "Mozambique",
       "sp": "Mozambique",
-      "ge": "Mosambik",
-      "de": "Mozambique"
+      "ge": "Mosambik"
     },
     "alpha3": "MOZ",
     "countryCode": "508",
@@ -1828,8 +1676,7 @@
       "en": "Myanmar",
       "fr": "Myanmar",
       "sp": "Myanmar",
-      "ge": "Myanmar",
-      "de": "Myanmar"
+      "ge": "Myanmar"
     },
     "alpha3": "MMR",
     "countryCode": "104",
@@ -1840,8 +1687,7 @@
       "en": "Namibia",
       "fr": "Namibie",
       "sp": "Namibia",
-      "ge": "Namibia",
-      "de": "Namibia"
+      "ge": "Namibia"
     },
     "alpha3": "NAM",
     "countryCode": "516",
@@ -1852,8 +1698,7 @@
       "en": "Nauru",
       "fr": "Nauru",
       "sp": "Nauru",
-      "ge": "Nauru",
-      "de": "Nauru"
+      "ge": "Nauru"
     },
     "alpha3": "NRU",
     "countryCode": "520",
@@ -1864,8 +1709,7 @@
       "en": "Nepal",
       "fr": "Népal",
       "sp": "Nepal",
-      "ge": "Nepal",
-      "de": "Nepal"
+      "ge": "Nepal"
     },
     "alpha3": "NPL",
     "countryCode": "524",
@@ -1876,8 +1720,7 @@
       "en": "Netherlands",
       "fr": "Pays-Bas",
       "sp": "Países Bajos",
-      "ge": "Niederlande",
-      "de": "Netherlands"
+      "ge": "Niederlande"
     },
     "alpha3": "NLD",
     "countryCode": "528",
@@ -1888,8 +1731,7 @@
       "en": "New Caledonia",
       "fr": "Nouvelle-Calédonie",
       "sp": "Nueva Caledonia",
-      "ge": "Neukaledonien",
-      "de": "New Caledonia"
+      "ge": "Neukaledonien"
     },
     "alpha3": "NCL",
     "countryCode": "540",
@@ -1900,8 +1742,7 @@
       "en": "New Zealand",
       "fr": "Nouvelle-Zélande",
       "sp": "Nueva Zelanda",
-      "ge": "Neuseeland",
-      "de": "New Zealand"
+      "ge": "Neuseeland"
     },
     "alpha3": "NZL",
     "countryCode": "554",
@@ -1912,8 +1753,7 @@
       "en": "Nicaragua",
       "fr": "Nicaragua",
       "sp": "Nicaragua",
-      "ge": "Nicaragua",
-      "de": "Nicaragua"
+      "ge": "Nicaragua"
     },
     "alpha3": "NIC",
     "countryCode": "558",
@@ -1924,8 +1764,7 @@
       "en": "Niger",
       "fr": "Niger",
       "sp": "Níger",
-      "ge": "Niger",
-      "de": "Niger"
+      "ge": "Niger"
     },
     "alpha3": "NER",
     "countryCode": "562",
@@ -1936,8 +1775,7 @@
       "en": "Nigeria",
       "fr": "Nigéria",
       "sp": "Nigeria",
-      "ge": "Nigeria",
-      "de": "Nigeria"
+      "ge": "Nigeria"
     },
     "alpha3": "NGA",
     "countryCode": "566",
@@ -1948,8 +1786,7 @@
       "en": "Niue",
       "fr": "Niue",
       "sp": "Niue",
-      "ge": "Niue",
-      "de": "Niue"
+      "ge": "Niue"
     },
     "alpha3": "NIU",
     "countryCode": "570",
@@ -1960,8 +1797,7 @@
       "en": "Norfolk Island",
       "fr": "Norfolk, Ile",
       "sp": "Isla de Norfolk",
-      "ge": "Norfolk Insel",
-      "de": "Norfolk Island"
+      "ge": "Norfolk Insel"
     },
     "alpha3": "NFK",
     "countryCode": "574",
@@ -1972,8 +1808,7 @@
       "en": "North Macedonia",
       "fr": "Macédoine du Nord",
       "sp": "Macedonia del Norte",
-      "ge": "Nordmazedonien",
-      "de": "North Macedonia"
+      "ge": "Nordmazedonien"
     },
     "alpha3": "MKD",
     "countryCode": "807",
@@ -1984,8 +1819,7 @@
       "en": "Northern Mariana Islands",
       "fr": "Mariannes du Nord, Iles",
       "sp": "Islas Marianas del Norte",
-      "ge": "Nördliche Marianen Inseln",
-      "de": "Northern Mariana Islands"
+      "ge": "Nördliche Marianen Inseln"
     },
     "alpha3": "MNP",
     "countryCode": "580",
@@ -1996,8 +1830,7 @@
       "en": "Norway",
       "fr": "Norvège",
       "sp": "Noruega",
-      "ge": "Norwegen",
-      "de": "Norway"
+      "ge": "Norwegen"
     },
     "alpha3": "NOR",
     "countryCode": "578",
@@ -2008,8 +1841,7 @@
       "en": "Oman",
       "fr": "Oman",
       "sp": "Omán",
-      "ge": "Oman",
-      "de": "Oman"
+      "ge": "Oman"
     },
     "alpha3": "OMN",
     "countryCode": "512",
@@ -2020,8 +1852,7 @@
       "en": "Pakistan",
       "fr": "Pakistan",
       "sp": "Pakistán",
-      "ge": "Pakistan",
-      "de": "Pakistan"
+      "ge": "Pakistan"
     },
     "alpha3": "PAK",
     "countryCode": "586",
@@ -2032,8 +1863,7 @@
       "en": "Palau",
       "fr": "Palaos",
       "sp": "Palau",
-      "ge": "Palaos",
-      "de": "Palau"
+      "ge": "Palaos"
     },
     "alpha3": "PLW",
     "countryCode": "585",
@@ -2044,8 +1874,7 @@
       "en": "Palestine, State of",
       "fr": "Palestine, État de",
       "sp": "Palestina, Estado de",
-      "ge": "Palästina, Staat von",
-      "de": "Palestine, State of"
+      "ge": "Palästina, Staat von"
     },
     "alpha3": "PSE",
     "countryCode": "275",
@@ -2056,8 +1885,7 @@
       "en": "Panama",
       "fr": "Panama",
       "sp": "Panamá",
-      "ge": "Panama",
-      "de": "Panama"
+      "ge": "Panama"
     },
     "alpha3": "PAN",
     "countryCode": "591",
@@ -2068,8 +1896,7 @@
       "en": "Papua New Guinea",
       "fr": "Papouasie-Nouvelle-Guinée",
       "sp": "Papúa Nueva Guinea",
-      "ge": "Papua-Neuguinea",
-      "de": "Papua New Guinea"
+      "ge": "Papua-Neuguinea"
     },
     "alpha3": "PNG",
     "countryCode": "598",
@@ -2080,8 +1907,7 @@
       "en": "Paraguay",
       "fr": "Paraguay",
       "sp": "Paraguay",
-      "ge": "Paraguay",
-      "de": "Paraguay"
+      "ge": "Paraguay"
     },
     "alpha3": "PRY",
     "countryCode": "600",
@@ -2092,8 +1918,7 @@
       "en": "Peru",
       "fr": "Pérou",
       "sp": "Perú",
-      "ge": "Peru",
-      "de": "Peru"
+      "ge": "Peru"
     },
     "alpha3": "PER",
     "countryCode": "604",
@@ -2104,8 +1929,7 @@
       "en": "Philippines",
       "fr": "Philippines",
       "sp": "Filipinas",
-      "ge": "Philippinen",
-      "de": "Philippines"
+      "ge": "Philippinen"
     },
     "alpha3": "PHL",
     "countryCode": "608",
@@ -2116,8 +1940,7 @@
       "en": "Pitcairn",
       "fr": "Pitcairn",
       "sp": "Pitcairn",
-      "ge": "Pitcairn",
-      "de": "Pitcairn"
+      "ge": "Pitcairn"
     },
     "alpha3": "PCN",
     "countryCode": "612",
@@ -2128,8 +1951,7 @@
       "en": "Poland",
       "fr": "Pologne",
       "sp": "Polonia",
-      "ge": "Polen",
-      "de": "Poland"
+      "ge": "Polen"
     },
     "alpha3": "POL",
     "countryCode": "616",
@@ -2140,8 +1962,7 @@
       "en": "Portugal",
       "fr": "Portugal",
       "sp": "Portugal",
-      "ge": "Portugal",
-      "de": "Portugal"
+      "ge": "Portugal"
     },
     "alpha3": "PRT",
     "countryCode": "620",
@@ -2152,8 +1973,7 @@
       "en": "Puerto Rico",
       "fr": "Porto Rico",
       "sp": "Puerto Rico",
-      "ge": "Puerto Rico",
-      "de": "Puerto Rico"
+      "ge": "Puerto Rico"
     },
     "alpha3": "PRI",
     "countryCode": "630",
@@ -2164,8 +1984,7 @@
       "en": "Qatar",
       "fr": "Quatar",
       "sp": "Qatar",
-      "ge": "Katar",
-      "de": "Qatar"
+      "ge": "Katar"
     },
     "alpha3": "QAT",
     "countryCode": "634",
@@ -2176,8 +1995,7 @@
       "en": "Réunion",
       "fr": "Réunion",
       "sp": "Isla de la Reunión",
-      "ge": "Réunion, La",
-      "de": "Reunion Island"
+      "ge": "Réunion, La"
     },
     "alpha3": "REU",
     "countryCode": "638",
@@ -2188,8 +2006,7 @@
       "en": "Romania",
       "fr": "Roumanie",
       "sp": "Rumanía",
-      "ge": "Rumänien",
-      "de": "Romania"
+      "ge": "Rumänien"
     },
     "alpha3": "ROU",
     "countryCode": "642",
@@ -2200,8 +2017,7 @@
       "en": "Russian Federation",
       "fr": "Russie, Fédération de",
       "sp": "Rusia, Federación de",
-      "ge": "Russische Föderation",
-      "de": "Russia, Federation of"
+      "ge": "Russische Föderation"
     },
     "alpha3": "RUS",
     "countryCode": "643",
@@ -2212,8 +2028,7 @@
       "en": "Rwanda",
       "fr": "Rwanda",
       "sp": "Ruanda",
-      "ge": "Ruanda",
-      "de": "Rwanda"
+      "ge": "Ruanda"
     },
     "alpha3": "RWA",
     "countryCode": "646",
@@ -2224,8 +2039,7 @@
       "en": "Saint Barthélemy",
       "fr": "Saint-Barthélemy",
       "sp": "San Bartolomé",
-      "ge": "Saint-Barthélemy",
-      "de": "Saint Barthélemy"
+      "ge": "Saint-Barthélemy"
     },
     "alpha3": "BLM",
     "countryCode": "652",
@@ -2236,8 +2050,7 @@
       "en": "Saint Helena, Ascension and Tristan da Cunha",
       "fr": "Sainte-Hélène, Ascension et Tristan da Cunha",
       "sp": "Santa Elena, Ascensión y Tristán da Cunha",
-      "ge": "St. Helena, Ascension und Tristan da Cunha",
-      "de": "St Helena, Ascension and Tristan da Cunha"
+      "ge": "St. Helena, Ascension und Tristan da Cunha"
     },
     "alpha3": "SHN",
     "countryCode": "654",
@@ -2248,8 +2061,7 @@
       "en": "Saint Kitts and Nevis",
       "fr": "Saint-Kitts-et-Nevis",
       "sp": "San Cristóbal y Nieves",
-      "ge": "St. Kitts und Nevis",
-      "de": "Saint Kitts and Nevis"
+      "ge": "St. Kitts und Nevis"
     },
     "alpha3": "KNA",
     "countryCode": "659",
@@ -2260,8 +2072,7 @@
       "en": "Saint Lucia",
       "fr": "Sainte-Lucie",
       "sp": "Santa Lucía",
-      "ge": "St. Lucia",
-      "de": "Saint Lucia"
+      "ge": "St. Lucia"
     },
     "alpha3": "LCA",
     "countryCode": "662",
@@ -2272,8 +2083,7 @@
       "en": "Saint Martin (French part)",
       "fr": "Saint-Martin (partie française)",
       "sp": "Saint-Martin (parte francesa)",
-      "ge": "Saint-Martin (französischer Teil)",
-      "de": "Saint Martin (French part)"
+      "ge": "Saint-Martin (französischer Teil)"
     },
     "alpha3": "MAF",
     "countryCode": "663",
@@ -2284,8 +2094,7 @@
       "en": "Saint Pierre and Miquelon",
       "fr": "Saint-Pierre-et-Miquelon",
       "sp": "San Pedro y Miquelón",
-      "ge": "Saint-Pierre und Miquelon",
-      "de": "Saint Pierre and Miquelon"
+      "ge": "Saint-Pierre und Miquelon"
     },
     "alpha3": "SPM",
     "countryCode": "666",
@@ -2296,8 +2105,7 @@
       "en": "Saint Vincent and the Grenadines",
       "fr": "Saint-Vincent-et-les Grenadines",
       "sp": "San Vicente y las Granadinas",
-      "ge": "St. Vincent und die Grenadinen",
-      "de": "Saint Vincent and the Grenadines"
+      "ge": "St. Vincent und die Grenadinen"
     },
     "alpha3": "VCT",
     "countryCode": "670",
@@ -2308,8 +2116,7 @@
       "en": "Samoa",
       "fr": "Samoa",
       "sp": "Samoa",
-      "ge": "Samoa",
-      "de": "Samoa"
+      "ge": "Samoa"
     },
     "alpha3": "WSM",
     "countryCode": "882",
@@ -2320,8 +2127,7 @@
       "en": "San Marino",
       "fr": "Saint-Marin",
       "sp": "San Marino",
-      "ge": "San Marin",
-      "de": "San Marino"
+      "ge": "San Marin"
     },
     "alpha3": "SMR",
     "countryCode": "674",
@@ -2332,8 +2138,7 @@
       "en": "Sao Tome and Principe",
       "fr": "Sao Tomé-et-Principe",
       "sp": "Santo Tomé y Príncipe",
-      "ge": "Sao Tomé und Principe",
-      "de": "Sao Tome and Principe"
+      "ge": "Sao Tomé und Principe"
     },
     "alpha3": "STP",
     "countryCode": "678",
@@ -2344,8 +2149,7 @@
       "en": "Saudi Arabia",
       "fr": "Arabie saoudite",
       "sp": "Arabia Saudí",
-      "ge": "Saudi-Arabien",
-      "de": "Saudi Arabia"
+      "ge": "Saudi-Arabien"
     },
     "alpha3": "SAU",
     "countryCode": "682",
@@ -2356,8 +2160,7 @@
       "en": "Senegal",
       "fr": "Sénégal",
       "sp": "Senegal",
-      "ge": "Senegal",
-      "de": "Senegal"
+      "ge": "Senegal"
     },
     "alpha3": "SEN",
     "countryCode": "686",
@@ -2368,8 +2171,7 @@
       "en": "Serbia",
       "fr": "Serbie",
       "sp": "Serbia",
-      "ge": "Serbien",
-      "de": "Serbia"
+      "ge": "Serbien"
     },
     "alpha3": "SRB",
     "countryCode": "688",
@@ -2380,8 +2182,7 @@
       "en": "Seychelles",
       "fr": "Seychelles",
       "sp": "Seychelles",
-      "ge": "Seychellen",
-      "de": "Seychelles"
+      "ge": "Seychellen"
     },
     "alpha3": "SYC",
     "countryCode": "690",
@@ -2392,8 +2193,7 @@
       "en": "Sierra Leone",
       "fr": "Sierra Leone",
       "sp": "Sierra Leona",
-      "ge": "Sierra Leone",
-      "de": "Sierra Leone"
+      "ge": "Sierra Leone"
     },
     "alpha3": "SLE",
     "countryCode": "694",
@@ -2404,8 +2204,7 @@
       "en": "Singapore",
       "fr": "Singapour",
       "sp": "Singapur",
-      "ge": "Singapur",
-      "de": "Singapore"
+      "ge": "Singapur"
     },
     "alpha3": "SGP",
     "countryCode": "702",
@@ -2416,8 +2215,7 @@
       "en": "Sint Maarten (Dutch part)",
       "fr": "Saint-Martin (partie néerlandaise)",
       "sp": "San Martín (parte holandesa)",
-      "ge": "Saint-Martin (niederländischer Teil)",
-      "de": "Sint Maarten (Dutch part)"
+      "ge": "Saint-Martin (niederländischer Teil)"
     },
     "alpha3": "SXM",
     "countryCode": "534",
@@ -2428,8 +2226,7 @@
       "en": "Slovakia",
       "fr": "Slovaquie",
       "sp": "Eslovaquia",
-      "ge": "Slowakei",
-      "de": "Slovakia"
+      "ge": "Slowakei"
     },
     "alpha3": "SVK",
     "countryCode": "703",
@@ -2440,8 +2237,7 @@
       "en": "Slovenia",
       "fr": "Slovénie",
       "sp": "Eslovenia",
-      "ge": "Slowenien",
-      "de": "Slovenia"
+      "ge": "Slowenien"
     },
     "alpha3": "SVN",
     "countryCode": "705",
@@ -2452,8 +2248,7 @@
       "en": "Solomon Islands",
       "fr": "Salomon, Iles",
       "sp": "Islas Salomón",
-      "ge": "Salomon-Inseln",
-      "de": "Solomon Islands"
+      "ge": "Salomon-Inseln"
     },
     "alpha3": "SLB",
     "countryCode": "90",
@@ -2464,8 +2259,7 @@
       "en": "Somalia",
       "fr": "Somalie",
       "sp": "Somalia",
-      "ge": "Somalia",
-      "de": "Somalia"
+      "ge": "Somalia"
     },
     "alpha3": "SOM",
     "countryCode": "706",
@@ -2476,8 +2270,7 @@
       "en": "South Africa",
       "fr": "Afrique du Sud",
       "sp": "Sudáfrica",
-      "ge": "Südafrika",
-      "de": "South Africa"
+      "ge": "Südafrika"
     },
     "alpha3": "ZAF",
     "countryCode": "710",
@@ -2488,8 +2281,7 @@
       "en": "South Georgia and the South Sandwich Islands",
       "fr": "Géorgie du Sud, Iles Sandwich du Sud",
       "sp": "Georgia del Sur y las Islas Sandwich del Sur",
-      "ge": "Südgeorgien und die Südlichen Sandwichinseln",
-      "de": "South Georgia and the South Sandwich Islands"
+      "ge": "Südgeorgien und die Südlichen Sandwichinseln"
     },
     "alpha3": "SGS",
     "countryCode": "239",
@@ -2500,8 +2292,7 @@
       "en": "South Sudan",
       "fr": "Soudan du Sud",
       "sp": "Sudán del Sur",
-      "ge": "Südsudan",
-      "de": "South Sudan"
+      "ge": "Südsudan"
     },
     "alpha3": "SSD",
     "countryCode": "728",
@@ -2512,8 +2303,7 @@
       "en": "Spain",
       "fr": "Espagne",
       "sp": "España",
-      "ge": "Spanien",
-      "de": "Spain"
+      "ge": "Spanien"
     },
     "alpha3": "ESP",
     "countryCode": "724",
@@ -2524,8 +2314,7 @@
       "en": "Sri Lanka",
       "fr": "Sri Lanka",
       "sp": "Sri Lanka",
-      "ge": "Sri Lanka",
-      "de": "Sri Lanka"
+      "ge": "Sri Lanka"
     },
     "alpha3": "LKA",
     "countryCode": "144",
@@ -2536,8 +2325,7 @@
       "en": "Sudan",
       "fr": "Soudan",
       "sp": "Sudán",
-      "ge": "Sudan",
-      "de": "Sudan"
+      "ge": "Sudan"
     },
     "alpha3": "SDN",
     "countryCode": "729",
@@ -2548,8 +2336,7 @@
       "en": "Suriname",
       "fr": "Surinam",
       "sp": "Surinam",
-      "ge": "Surinam",
-      "de": "Suriname"
+      "ge": "Surinam"
     },
     "alpha3": "SUR",
     "countryCode": "740",
@@ -2560,8 +2347,7 @@
       "en": "Svalbard and Jan Mayen",
       "fr": "Svalbard et Ile Jan Mayen",
       "sp": "Islas Svalbard y Jan Mayen",
-      "ge": "Svalbard und Jan Mayen",
-      "de": "Svalbard and Jan Mayen Island"
+      "ge": "Svalbard und Jan Mayen"
     },
     "alpha3": "SJM",
     "countryCode": "744",
@@ -2572,8 +2358,7 @@
       "en": "Sweden",
       "fr": "Suède",
       "sp": "Suecia",
-      "ge": "Schweden",
-      "de": "Sweden"
+      "ge": "Schweden"
     },
     "alpha3": "SWE",
     "countryCode": "752",
@@ -2584,8 +2369,7 @@
       "en": "Switzerland",
       "fr": "Suisse",
       "sp": "Suiza",
-      "ge": "Schweiz",
-      "de": "Switzerland"
+      "ge": "Schweiz"
     },
     "alpha3": "CHE",
     "countryCode": "756",
@@ -2596,8 +2380,7 @@
       "en": "Syrian Arab Republic",
       "fr": "Syrie",
       "sp": "Siria",
-      "ge": "Syrien",
-      "de": "Syria"
+      "ge": "Syrien"
     },
     "alpha3": "SYR",
     "countryCode": "760",
@@ -2608,8 +2391,7 @@
       "en": "Taiwan, Province of China",
       "fr": "Taïwan, Province de Chine",
       "sp": "Taiwán, provincia de China",
-      "ge": "Taiwan, Provinz China",
-      "de": "Taiwan, Province of China"
+      "ge": "Taiwan, Provinz China"
     },
     "alpha3": "TWN",
     "countryCode": "158",
@@ -2620,8 +2402,7 @@
       "en": "Tajikistan",
       "fr": "Tadjikistan",
       "sp": "Tayikistán",
-      "ge": "Tadschikistan",
-      "de": "Tajikistan"
+      "ge": "Tadschikistan"
     },
     "alpha3": "TJK",
     "countryCode": "762",
@@ -2632,8 +2413,7 @@
       "en": "Tanzania, United Republic of",
       "fr": "Tanzanie",
       "sp": "Tanzania",
-      "ge": "Tansania",
-      "de": "Tanzania"
+      "ge": "Tansania"
     },
     "alpha3": "TZA",
     "countryCode": "834",
@@ -2644,8 +2424,7 @@
       "en": "Thailand",
       "fr": "Thaïlande",
       "sp": "Tailandia",
-      "ge": "Thailand",
-      "de": "Thailand"
+      "ge": "Thailand"
     },
     "alpha3": "THA",
     "countryCode": "764",
@@ -2656,8 +2435,7 @@
       "en": "Timor-Leste",
       "fr": "Timor-Leste",
       "sp": "Timor-Leste",
-      "ge": "Timor-Leste",
-      "de": "Timor-Leste"
+      "ge": "Timor-Leste"
     },
     "alpha3": "TLS",
     "countryCode": "626",
@@ -2668,8 +2446,7 @@
       "en": "Togo",
       "fr": "Togo",
       "sp": "Togo",
-      "ge": "Togo",
-      "de": "Togo"
+      "ge": "Togo"
     },
     "alpha3": "TGO",
     "countryCode": "768",
@@ -2680,8 +2457,7 @@
       "en": "Tokelau",
       "fr": "Tokelau",
       "sp": "Tokelau",
-      "ge": "Tokelau",
-      "de": "Tokelau"
+      "ge": "Tokelau"
     },
     "alpha3": "TKL",
     "countryCode": "772",
@@ -2692,8 +2468,7 @@
       "en": "Tonga",
       "fr": "Tonga",
       "sp": "Tonga",
-      "ge": "Tonga",
-      "de": "Tonga"
+      "ge": "Tonga"
     },
     "alpha3": "TON",
     "countryCode": "776",
@@ -2704,8 +2479,7 @@
       "en": "Trinidad and Tobago",
       "fr": "Trinité-et-Tobago",
       "sp": "Trinidad y Tobago",
-      "ge": "Trinidad und Tobago",
-      "de": "Trinidad and Tobago"
+      "ge": "Trinidad und Tobago"
     },
     "alpha3": "TTO",
     "countryCode": "780",
@@ -2716,8 +2490,7 @@
       "en": "Tunisia",
       "fr": "Tunisie",
       "sp": "Túnez",
-      "ge": "Tunesien",
-      "de": "Tunisia"
+      "ge": "Tunesien"
     },
     "alpha3": "TUN",
     "countryCode": "788",
@@ -2728,8 +2501,7 @@
       "en": "Turkey",
       "fr": "Turquie",
       "sp": "Turquía",
-      "ge": "Türkei",
-      "de": "Turkey"
+      "ge": "Türkei"
     },
     "alpha3": "TUR",
     "countryCode": "792",
@@ -2740,8 +2512,7 @@
       "en": "Turkmenistan",
       "fr": "Turkménistan",
       "sp": "Turkmenistán",
-      "ge": "Turkmenistan",
-      "de": "Turkmenistan"
+      "ge": "Turkmenistan"
     },
     "alpha3": "TKM",
     "countryCode": "795",
@@ -2752,8 +2523,7 @@
       "en": "Turks and Caicos Islands",
       "fr": "Turques-et-Caïques, Iles",
       "sp": "Islas Turcas y Caicos",
-      "ge": "Turks- und Caicosinseln",
-      "de": "Turks and Caicos Islands"
+      "ge": "Turks- und Caicosinseln"
     },
     "alpha3": "TCA",
     "countryCode": "796",
@@ -2764,8 +2534,7 @@
       "en": "Tuvalu",
       "fr": "Tuvalu",
       "sp": "Tuvalu",
-      "ge": "Tuvalu",
-      "de": "Tuvalu"
+      "ge": "Tuvalu"
     },
     "alpha3": "TUV",
     "countryCode": "798",
@@ -2776,8 +2545,7 @@
       "en": "Uganda",
       "fr": "Ouganda",
       "sp": "Uganda",
-      "ge": "Uganda",
-      "de": "Uganda"
+      "ge": "Uganda"
     },
     "alpha3": "UGA",
     "countryCode": "800",
@@ -2788,8 +2556,7 @@
       "en": "Ukraine",
       "fr": "Ukraine",
       "sp": "Ucrania",
-      "ge": "Ukraine",
-      "de": "Ukraine"
+      "ge": "Ukraine"
     },
     "alpha3": "UKR",
     "countryCode": "804",
@@ -2800,8 +2567,7 @@
       "en": "United Arab Emirates",
       "fr": "Émirats Arabes Unis",
       "sp": "Emiratos Árabes Unidos",
-      "ge": "Vereinigte Arabische Emirate",
-      "de": "United Arab Emirates"
+      "ge": "Vereinigte Arabische Emirate"
     },
     "alpha3": "ARE",
     "countryCode": "784",
@@ -2812,8 +2578,7 @@
       "en": "United Kingdom of Great Britain and Northern Ireland",
       "fr": "Royaume-Uni",
       "sp": "Reino Unido",
-      "ge": "Vereinigtes Königreich",
-      "de": "United Kingdom"
+      "ge": "Vereinigtes Königreich"
     },
     "alpha3": "GBR",
     "countryCode": "826",
@@ -2824,8 +2589,7 @@
       "en": "United States Minor Outlying Islands",
       "fr": "Iles mineures éloignées des États-Unis d'Amérique",
       "sp": "Islas Ultramarinas Menores de los Estados Unidos",
-      "ge": "Kleinere abgelegene Inseln der Vereinigten Staaten",
-      "de": "United States Minor Outlying Islands"
+      "ge": "Kleinere abgelegene Inseln der Vereinigten Staaten"
     },
     "alpha3": "UMI",
     "countryCode": "581",
@@ -2836,8 +2600,7 @@
       "en": "United States of America",
       "fr": "États-Unis d'Amérique",
       "sp": "Estados Unidos de América",
-      "ge": "Vereinigte Staaten von Amerika",
-      "de": "United States of America"
+      "ge": "Vereinigte Staaten von Amerika"
     },
     "alpha3": "USA",
     "countryCode": "840",
@@ -2848,8 +2611,7 @@
       "en": "Uruguay",
       "fr": "Uruguay",
       "sp": "Uruguay",
-      "ge": "Uruguay",
-      "de": "Uruguay"
+      "ge": "Uruguay"
     },
     "alpha3": "URY",
     "countryCode": "858",
@@ -2860,8 +2622,7 @@
       "en": "Uzbekistan",
       "fr": "Ouzbékistan",
       "sp": "Uzbekistán",
-      "ge": "Usbekistan",
-      "de": "Uzbekistan"
+      "ge": "Usbekistan"
     },
     "alpha3": "UZB",
     "countryCode": "860",
@@ -2872,8 +2633,7 @@
       "en": "Vanuatu",
       "fr": "Vanuatu",
       "sp": "Vanuatu",
-      "ge": "Vanuatu",
-      "de": "Vanuatu"
+      "ge": "Vanuatu"
     },
     "alpha3": "VUT",
     "countryCode": "548",
@@ -2884,8 +2644,7 @@
       "en": "Venezuela (Bolivarian Republic of)",
       "fr": "Vénézuela",
       "sp": "Venezuela, República Bolivariana de",
-      "ge": "Venezuela, Bolivarische Republik",
-      "de": "Venezuela, Bolivarian Republic of"
+      "ge": "Venezuela, Bolivarische Republik"
     },
     "alpha3": "VEN",
     "countryCode": "862",
@@ -2896,8 +2655,7 @@
       "en": "Viet Nam",
       "fr": "Vietnam",
       "sp": "Vietnam",
-      "ge": "Viet Nam",
-      "de": "Viet Nam"
+      "ge": "Viet Nam"
     },
     "alpha3": "VNM",
     "countryCode": "704",
@@ -2908,8 +2666,7 @@
       "en": "Virgin Islands (British)",
       "fr": "Iles Vierges britanniques",
       "sp": "Islas Vírgenes Británicas",
-      "ge": "Britische Jungferninseln",
-      "de": "British Virgin Islands"
+      "ge": "Britische Jungferninseln"
     },
     "alpha3": "VGB",
     "countryCode": "92",
@@ -2920,8 +2677,7 @@
       "en": "Virgin Islands (U.S.)",
       "fr": "Iles Vierges des États-Unis",
       "sp": "Islas Vírgenes de EE.UU.",
-      "ge": "Jungferninseln der Vereinigten Staaten",
-      "de": "US Virgin Islands"
+      "ge": "Jungferninseln der Vereinigten Staaten"
     },
     "alpha3": "VIR",
     "countryCode": "850",
@@ -2932,8 +2688,7 @@
       "en": "Wallis and Futuna",
       "fr": "Wallis et Futuna",
       "sp": "Wallis y Futuna",
-      "ge": "Wallis und Futuna",
-      "de": "Wallis and Futuna"
+      "ge": "Wallis und Futuna"
     },
     "alpha3": "WLF",
     "countryCode": "876",
@@ -2944,8 +2699,7 @@
       "en": "Western Sahara",
       "fr": "Sahara occidental",
       "sp": "Sahara Occidental",
-      "ge": "Westsahara",
-      "de": "Western Sahara"
+      "ge": "Westsahara"
     },
     "alpha3": "ESH",
     "countryCode": "732",
@@ -2956,8 +2710,7 @@
       "en": "Yemen",
       "fr": "Yémen",
       "sp": "Yemen",
-      "ge": "Jemen",
-      "de": "Yemen"
+      "ge": "Jemen"
     },
     "alpha3": "YEM",
     "countryCode": "887",
@@ -2968,8 +2721,7 @@
       "en": "Zambia",
       "fr": "Zambie",
       "sp": "Zambia",
-      "ge": "Sambia",
-      "de": "Zambia"
+      "ge": "Sambia"
     },
     "alpha3": "ZMB",
     "countryCode": "894",
@@ -2980,8 +2732,7 @@
       "en": "Zimbabwe",
       "fr": "Zimbabwe",
       "sp": "Zimbabue",
-      "ge": "Simbabwe",
-      "de": "Zimbabwe"
+      "ge": "Simbabwe"
     },
     "alpha3": "ZWE",
     "countryCode": "716",
